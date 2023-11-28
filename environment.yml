@@ -1,4 +1,4 @@
-name: simple_streamlit
+name: toxic_streamlit
 dependencies:
   - python=3.10
   - pip
@@ -10,4 +10,3 @@ dependencies:
     - scikit-learn
     - boto3
     - ipykernel
-    - sklearn
