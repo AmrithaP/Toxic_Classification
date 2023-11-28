@@ -1,6 +1,6 @@
 name: toxic_streamlit
 dependencies:
-  - python=3.11
+  - python=3.9
   - pip
   - pip:
     - pandas
