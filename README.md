@@ -36,7 +36,7 @@ Calculated the metrics for each classifier -
 
 From above Table and comparison between various classifiers, am going to take in LinearSVC classifier for being the best when compared among others for the performance of the model.
 
-#### Algo for LinearSVC :
+#### Algo for LinearSVC 
 1. Data Preprocessing:
 - Load and explore the dataset.
 - Handle missing data if any.
@@ -74,5 +74,20 @@ Model Interpretation (Optional):
 9. Deployment (Optional):
 - If satisfied with the model performance, deploy the Linear SVC for making real-world predictions.
 
-### Tools Used. 
-//List all the tools you used for this project, describing the purpose(s) of each.
+### Tools Used:
+1. Python: The primary programming language used for the entire project, including data preprocessing, model development, and evaluation.
+2. Pandas: Employed for data manipulation and exploration, allowing seamless handling of the dataset and extraction of meaningful insights.
+3. Scikit-learn: Utilized for implementing machine learning algorithms, model training, and performance evaluation. Scikit-learn provides a comprehensive set of tools for data mining and data analysis.
+4. NLTK (Natural Language Toolkit): Incorporated for text data preprocessing, including tokenization, removal of stop words, and other essential natural language processing tasks.\
+5. Matplotlib and Seaborn: These visualization libraries were used to create insightful graphs and charts, aiding in the interpretation of model performance metrics.
+6. Jupyter Notebooks: Facilitated an interactive and collaborative development environment, enabling a step-by-step walkthrough of the project, from data exploration to model training.
+7. Linear Support Vector Classifier (LinearSVC): Selected as the final classifier due to its superior performance, this tool plays a crucial role in accurately identifying and categorizing toxic comments.
+8. TF-IDF (Term Frequency-Inverse Document Frequency): Employed as a feature extraction technique to convert text data into numerical representations, enhancing the model's ability to understand and classify toxic comments.
+9. GitHub: Used for version control and collaborative development, ensuring project integrity and providing a platform for seamless collaboration.
+10. Web App Development Tools (if applicable): Streamlit tool was used for developing the web application for hosting the toxic comment classifier.
+
+By leveraging these tools, the project was able to efficiently address the challenges posed by toxic comments in social media, providing a comprehensive solution with a focus on model accuracy and interpretability.
+
+## Application Link - 
+
+URL : https://toxic-classification.streamlit.app/
