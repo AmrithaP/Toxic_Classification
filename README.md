@@ -88,6 +88,6 @@ Model Interpretation (Optional):
 
 By leveraging these tools, the project was able to efficiently address the challenges posed by toxic comments in social media, providing a comprehensive solution with a focus on model accuracy and interpretability.
 
-## Application Link - 
+### Application Link - 
 
 URL : https://toxic-classification.streamlit.app/
